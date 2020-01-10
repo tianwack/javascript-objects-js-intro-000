@@ -1,3 +1,5 @@
-var playlist = { artistName: songTitle };
-playlist['Slowdive'] = 'Alison'
-playlist['My Bloody Valentine'] = 'Sometimes'
+var playlist = {
+  artist1: 'song1',
+  artist2: 'song2',
+  artist3: 'song3'
+};
