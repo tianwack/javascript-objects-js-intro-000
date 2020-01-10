@@ -7,4 +7,4 @@ function updatePlaylist(playlist, artistName, songTitle){
   return Object.assign({}, playlist, {[artistName]: songTitle})
 }
 
-updatePlayist(['Phil Ochs': "Here's to the State of Mississippi"])
+updatePlayist('Phil Ochs': "Here's to the State of Mississippi")
